@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!%20👨‍💻&fontSize=40)
 
-I'm **[Your Name]**, a passionate **Computer Science student** at **Southern New Hampshire University**, concentrating in **Software Engineering**.
+I'm **[Ryan]**, a passionate **Computer Science student** at **Southern New Hampshire University**, concentrating in **Software Engineering**.
 
 ---
 
@@ -20,7 +20,7 @@ I'm **[Your Name]**, a passionate **Computer Science student** at **Southern New
 ## 🧠 Currently Studying
 - 📘 **Security+** (CompTIA)
 - 🌐 **Network+** (CompTIA)
-- 🧪 Building personal and class projects using Agile workflows
+- 🧪 Building personal and class projects using Agile workflows as well as Cybersecurity Projects
 
 ---
 
