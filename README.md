@@ -1,15 +1,15 @@
-# 👋 Hey there! Welcome to my GitHub! 🚀
+# 👋 Welcome
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!%20👨‍💻&fontSize=40)
 
-I'm **[Ryan]**, a passionate **Computer Science student** at **Southern New Hampshire University**, concentrating in **Software Engineering**.
+Hello everyone! My name is **Ryan**, and I am a passionate **Computer Science student** at **Southern New Hampshire University**, concentrating in **Software Engineering**.
 
 ---
 
 ## 💻 About Me
 
 - 💡 **Software Engineering Focused** – I love building smart, efficient, and scalable applications
-- 💻 **Languages:** Java, Python, **C++**, and a bit of scripting
+- 💻 **Languages:** Java, Python, **C++**, and a bit of scripting and Powershell
 - 📚 **Agile Methodologies** – Fan of Scrum, sprints, and continuous iteration
 - 🛡️ **Cybersecurity Enthusiast** – Protecting systems is my kind of fun
 - 🕵️‍♂️ **Ethical Hacking Explorer** – Always learning how to break & fix (ethically!)
