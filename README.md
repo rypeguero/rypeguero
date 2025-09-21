@@ -2,7 +2,8 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!%20👨‍💻&fontSize=40)
 
-Hello everyone! My name is **Ryan**, and I am a passionate **Computer Science student** at **Southern New Hampshire University**, concentrating in **Software Engineering**.
+Hello everyone! My name is **Ryan**, and I am a passionate **Computer Science student** at **Southern New Hampshire University**, concentrating in **Software Engineering**. I also share a passion for cybersecurity by experimenting
+with different tools and collecting data from Honeypots. 
 
 ---
 
@@ -20,11 +21,13 @@ Hello everyone! My name is **Ryan**, and I am a passionate **Computer Science st
 
 **[Theart Hunting Scenario With TOR](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR/edit/main/README.md)**
 
+**[Honeypot & SIEM Lab with T-pot, Suricata, Kibana](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-)**
+
 ---
 
-## 🧠 Currently Studying
+## 🧠 Cetifications
 - 📘 **Security+** (CompTIA)
-- 🌐 **Network+** (CompTIA)
+- 🌐 **Network+** (CompTIA) Expected Soon
 - 🧪 Building personal and class projects using Agile workflows as well as Cybersecurity Projects
 
 ---
