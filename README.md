@@ -25,7 +25,7 @@ with different tools and collecting data from Honeypots.
 
 ---
 
-## 🧠 Cetifications
+## 🧠 Certifications
 - 📘 **Security+** (CompTIA)
 - 🌐 **Network+** (CompTIA) Expected Soon
 - 🧪 Building personal and class projects using Agile workflows as well as Cybersecurity Projects
