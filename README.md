@@ -23,6 +23,11 @@ with different tools and collecting data from Honeypots.
 
 **[Honeypot & SIEM Lab with T-pot, Suricata, Kibana](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-)**
 
+## Software Development Projects
+**[Android Event Tracking APP](https://github.com/rypeguero/EventTrackingApp)**
+
+**[Weather APP](https://github.com/rypeguero/Weather-App)**
+
 ---
 
 ## 🧠 Certifications
