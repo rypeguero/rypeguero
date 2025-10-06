@@ -28,6 +28,10 @@ with different tools and collecting data from Honeypots.
 
 **[Weather APP](https://github.com/rypeguero/Weather-App)**
 
+**[Web Scraper with AI](https://github.com/rypeguero/Web-Scraper-With-AI)**
+
+**[OpenGL 3D Scene](https://github.com/rypeguero/OpenGL)**
+
 ---
 
 ## 🧠 Certifications
