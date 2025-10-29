@@ -34,6 +34,8 @@ with different tools and collecting data from Honeypots.
 
 **[OpenGL 3D Scene](https://github.com/rypeguero/OpenGL)**
 
+**[CRUD Module With Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB)**
+
 ---
 
 ## 🧠 Certifications
