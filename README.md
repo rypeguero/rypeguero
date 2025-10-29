@@ -36,6 +36,8 @@ with different tools and collecting data from Honeypots.
 
 **[CRUD Module With Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB)**
 
+**[Thermostat Project (Embedded Systems)](https://github.com/rypeguero/Embedded-Systems-Thermostat-)**
+
 ---
 
 ## 🧠 Certifications
