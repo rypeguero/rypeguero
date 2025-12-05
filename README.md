@@ -19,7 +19,7 @@ with different tools and collecting data from Honeypots.
 ## Cybersecurity Projects
 **[Vulnerability Management Program](https://github.com/rypeguero/Vulnerability-Management/tree/main)**
 
-**[Theart Hunting Scenario With TOR](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR/edit/main/README.md)**
+**[Theart Hunting Scenario With TOR](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR/tree/main)**
 
 **[Honeypot & SIEM Lab with T-pot, Suricata, Kibana](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-)**
 
