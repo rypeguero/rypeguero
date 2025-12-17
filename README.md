@@ -25,6 +25,8 @@ with different tools and collecting data from Honeypots.
 
 **[Vulnerability Remediation and Automation with powershell and Bash](https://github.com/rypeguero/Vulnerability-Remediations)**
 
+**[GhostTrail Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail)**
+
 ## Software Development Projects
 **[Android Event Tracking APP](https://github.com/rypeguero/EventTrackingApp)**
 
