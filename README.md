@@ -30,15 +30,13 @@ with different tools and collecting data from Honeypots.
 ## Software Development Projects
 **[Android Event Tracking APP](https://github.com/rypeguero/EventTrackingApp)**
 
-**[Weather APP](https://github.com/rypeguero/Weather-App)**
-
-**[Web Scraper with AI](https://github.com/rypeguero/Web-Scraper-With-AI)**
-
 **[OpenGL 3D Scene](https://github.com/rypeguero/OpenGL)**
 
 **[CRUD Module With Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB)**
 
 **[Thermostat Project (Embedded Systems)](https://github.com/rypeguero/Embedded-Systems-Thermostat-)**
+
+**[Adaptive AI Intelligent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)**
 
 ---
 
