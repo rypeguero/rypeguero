@@ -20,6 +20,7 @@ Computer Science student at Southern New Hampshire University (Software Engineer
   https://github.com/rypeguero/Incident-Ledger
 
 - **Travlr App (Full Stack Travel Planning Application)**
+  
   https://github.com/rypeguero/cs465-full-stack-development
 
 - **Android Event Tracking App**  
