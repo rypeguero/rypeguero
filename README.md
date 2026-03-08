@@ -9,7 +9,7 @@ Computer Science student at Southern New Hampshire University (Software Engineer
 - **Honeypots & telemetry:** collecting attacker behavior data to improve detection and analysis
 
 ## Core skills
-- **Languages:** Python, C++, JavaScript, Tyscript, PowerShell, Bash
+- **Languages:** Python, C++, JavaScript, TypeScript, PowerShell, Bash
 - **Security tooling (varies by project):** SIEM, IDS/IPS, honeypots, log pipelines
 - **Practices:** Git, iterative development
 
