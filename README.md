@@ -23,6 +23,10 @@ Computer Science student at Southern New Hampshire University (Software Engineer
   
   https://github.com/rypeguero/cs465-full-stack-development
 
+- **AI Job Scraper**
+
+  https://github.com/rypeguero/ai-job-scraper
+
 - **Android Event Tracking App**  
   https://github.com/rypeguero/EventTrackingApp
 
