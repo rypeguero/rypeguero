@@ -32,47 +32,19 @@ I use my software engineering background to support cybersecurity work through s
 
 ## Core Tools and Technologies
 
-### Security Tools
-
-- Microsoft Sentinel
-- Microsoft Defender for Endpoint
-- Kusto Query Language (KQL)
-- Tenable.io
-- Elastic
-- Kibana
-- Suricata
-- T-Pot
-- Security Information and Event Management (SIEM)
-- Endpoint Detection and Response (EDR)
-- Intrusion Detection System / Intrusion Prevention System (IDS/IPS)
-
-### Scripting and Development
-
-- Python
-- PowerShell
-- Bash
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Express.js
-- PostgreSQL
-- MongoDB
-- Git
-
-### Security Concepts
-
-- Incident response
-- Log analysis
-- Alert triage
-- Threat hunting
-- Vulnerability management
-- MITRE ATT&CK
-- National Institute of Standards and Technology (NIST)
-- Defense Information Systems Agency Security Technical Implementation Guides (DISA STIG)
-- Common Vulnerability Scoring System (CVSS)
-- Remediation planning
-- Technical documentation
+| Security Tools | Scripting & Development | Security Concepts |
+|---|---|---|
+| Microsoft Sentinel | Python | Incident response |
+| Microsoft Defender for Endpoint | PowerShell | Log analysis |
+| Kusto Query Language (KQL) | Bash | Alert triage |
+| Tenable.io | JavaScript | Threat hunting |
+| Elastic | TypeScript | Vulnerability management |
+| Kibana | React | MITRE ATT&CK |
+| Suricata | Node.js | NIST |
+| T-Pot | Express.js | DISA STIG |
+| SIEM | PostgreSQL | CVSS |
+| EDR | MongoDB | Remediation planning |
+| IDS/IPS | Git | Technical documentation |
 
 ---
 
