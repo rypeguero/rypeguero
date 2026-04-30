@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/welcome-banner.png" alt="Cybersecurity Portfolio Banner" width="100%">
+  <img src="./assets/Welcome banner.png" alt="Cybersecurity Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">Ryan Peguero</h1>
