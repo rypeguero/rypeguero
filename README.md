@@ -1,65 +1,219 @@
-# Ryan Peguero
+<p align="center">
+  <img src="./assets/welcome-banner.png" alt="Cybersecurity Portfolio Banner" width="100%">
+</p>
 
-Cybersecurity-focused Computer Science graduate from Southern New Hampshire University with a Software Engineering concentration. I build hands-on blue-team projects focused on SOC analysis, vulnerability management, threat hunting, incident response, and security automation.
+<h1 align="center">Ryan Peguero</h1>
 
-My goal is to use both security knowledge and software engineering skills to investigate alerts, document findings, automate repetitive tasks, and recommend practical remediation steps.
+<p align="center">
+  Cybersecurity-focused Computer Science graduate building hands-on blue-team projects in Security Operations Center (SOC) analysis, threat hunting, vulnerability management, incident response, and security automation.
+</p>
 
-## What I work on
+---
+
+## About Me
+
+I am a Computer Science graduate from Southern New Hampshire University with a Software Engineering concentration. My work focuses on practical cybersecurity projects that show how I investigate alerts, analyze logs, document findings, automate repeatable tasks, and recommend remediation steps.
+
+I use my software engineering background to support cybersecurity work through scripting, automation, incident tracking, documentation, and structured problem-solving.
+
+---
+
+## Focus Areas
 
 - **SOC analysis:** alert triage, log review, investigation notes, and incident reporting
 - **Threat hunting:** identifying suspicious behavior, indicators of compromise, and attack patterns
 - **Vulnerability management:** discovery, risk-based prioritization, remediation tracking, and validation
+- **Incident response:** containment planning, remediation recommendations, and lessons learned
 - **Security automation:** PowerShell and Bash scripting for hardening, compliance, and repeatable fixes
-- **Honeypots & telemetry:** collecting and analyzing attacker behavior to improve detection and response
+- **Honeypots and telemetry:** collecting and analyzing attacker behavior to improve detection and response
 - **Security-focused development:** building tools that support incident tracking and analyst workflows
 
-## Core skills
+---
 
-- **Languages:** Python, JavaScript, TypeScript, PowerShell, Bash
-- **Security tools:** SIEM, IDS/IPS, honeypots, Kibana, Suricata, Tenable.io
-- **Security concepts:** incident response, vulnerability management, threat hunting, log analysis, MITRE ATT&CK, NIST, DISA STIG
-- **Development tools:** Git, React, Node.js, Express.js, PostgreSQL, MongoDB
-- **Practices:** technical documentation, iterative development, troubleshooting, and remediation planning
+## Core Tools and Technologies
+
+### Security Tools
+
+- Microsoft Sentinel
+- Microsoft Defender for Endpoint
+- Kusto Query Language (KQL)
+- Tenable.io
+- Elastic
+- Kibana
+- Suricata
+- T-Pot
+- Security Information and Event Management (SIEM)
+- Endpoint Detection and Response (EDR)
+- Intrusion Detection System / Intrusion Prevention System (IDS/IPS)
+
+### Scripting and Development
+
+- Python
+- PowerShell
+- Bash
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- MongoDB
+- Git
+
+### Security Concepts
+
+- Incident response
+- Log analysis
+- Alert triage
+- Threat hunting
+- Vulnerability management
+- MITRE ATT&CK
+- National Institute of Standards and Technology (NIST)
+- Defense Information Systems Agency Security Technical Implementation Guides (DISA STIG)
+- Common Vulnerability Scoring System (CVSS)
+- Remediation planning
+- Technical documentation
 
 ---
 
-## Featured cybersecurity projects
+## SOC and Cybersecurity Lab Portfolio
 
-- **Vulnerability Management Program**  
-  Risk-based vulnerability management workflow covering discovery, prioritization, remediation, validation, and documentation.  
-  https://github.com/rypeguero/Vulnerability-Management/tree/main
+I organize my cybersecurity work into focused repositories so each project clearly shows the technology stack, investigation process, and security workflow being practiced.
 
-- **Threat Hunting Scenario: Tor Traffic**  
-  Threat hunting scenario focused on suspicious Tor-related network activity, detection logic, and analysis methodology.  
-  https://github.com/rypeguero/Threat-Hunting-Scenario-TOR/tree/main
+### Honeypot and SIEM Lab
 
-- **Honeypot & SIEM Lab: T-Pot, Suricata, and Kibana**  
-  Honeypot and SIEM lab used to capture attacker behavior, review security events, and analyze brute-force attempts, scanning activity, and suspicious traffic.  
-  https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-
+T-Pot, Elastic, Kibana, and Suricata investigations using attacker telemetry, network alerts, and SIEM dashboards.
 
-- **Vulnerability Remediation & Automation**  
-  PowerShell and Bash remediation scripts for Windows and Linux hardening using DISA STIG-aligned controls and repeatable validation steps.  
-  https://github.com/rypeguero/Vulnerability-Remediations
+This repository is focused on:
 
-- **GhostTrail: Linux Deception Detection Prototype**  
-  Linux deception and detection prototype focused on decoy assets, unauthorized access detection, and process investigation concepts.  
-  https://github.com/rypeguero/GhostTrail
+- Honeypot telemetry analysis
+- Suricata alert review
+- Kibana dashboard observations
+- Brute-force and scanning activity
+- Suspicious IP investigation
+- Attacker behavior summaries
+- Detection and remediation recommendations
 
----
-
-## Security-focused software project
-
-- **Incident Ledger**  
-  Full-stack incident tracking system designed to document incidents, track status, organize severity and priority, and support structured analyst-style reporting.  
-  https://github.com/rypeguero/Incident-Ledger
+Repository:  
+https://github.com/rypeguero/honeypot-siem-lab
 
 ---
 
-## Current focus
+### Microsoft SOC Cyber Range
 
-I am currently building a SOC Analyst lab portfolio based on hands-on investigation practice. My writeups focus on alert triage, log analysis, containment, remediation, MITRE ATT&CK mapping, and interview-ready explanations of what I investigated and learned.
+Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, Azure, and Tenable.io for alert triage, threat hunting, vulnerability management, and remediation tracking.
+
+This repository is focused on:
+
+- Sentinel alert investigations
+- Defender for Endpoint alert reviews
+- KQL-based log analysis
+- Suspicious authentication activity
+- Endpoint investigation
+- Tenable.io vulnerability scanning
+- CVSS-based prioritization
+- Remediation planning and validation
+
+Repository:  
+https://github.com/rypeguero/microsoft-soc-cyber-range-lab
+
+---
+
+### TryHackMe SOC Level 1 Writeups
+
+Selected room-based investigation summaries focused on analyst reasoning, log analysis, remediation, MITRE ATT&CK mapping, and interview-ready explanations.
+
+This repository is focused on:
+
+- SOC Level 1 practice
+- Alert triage
+- Phishing analysis
+- Windows and Linux log review
+- Network traffic analysis
+- Threat intelligence research
+- Containment and remediation recommendations
+- Lessons learned from each investigation
+
+Note: This repository does not include TryHackMe flags, direct answers, or solution dumps.
+
+Repository:  
+https://github.com/rypeguero/tryhackme-soc-level-1-writeups
+
+---
+
+## Additional Cybersecurity Projects
+
+### Vulnerability Management Program
+
+Risk-based vulnerability management workflow covering asset discovery, prioritization, remediation, validation, and documentation.
+
+Repository:  
+https://github.com/rypeguero/Vulnerability-Management/tree/main
+
+---
+
+### Threat Hunting Scenario: Tor Traffic
+
+Threat hunting scenario focused on suspicious Tor-related network activity, detection logic, and analysis methodology.
+
+Repository:  
+https://github.com/rypeguero/Threat-Hunting-Scenario-TOR/tree/main
+
+---
+
+### Vulnerability Remediation and Automation
+
+PowerShell and Bash remediation scripts for Windows and Linux hardening using DISA STIG-aligned controls and repeatable validation steps.
+
+Repository:  
+https://github.com/rypeguero/Vulnerability-Remediations
+
+---
+
+### GhostTrail: Linux Deception Detection Prototype
+
+Linux deception and detection prototype focused on decoy assets, unauthorized access detection, and process investigation concepts.
+
+Repository:  
+https://github.com/rypeguero/GhostTrail
+
+---
+
+## Security-Focused Software Project
+
+### Incident Ledger
+
+Full-stack incident tracking system designed to document incidents, track status, organize severity and priority, and support structured analyst-style reporting.
+
+This project shows how I use software engineering skills to support security operations workflows.
+
+Repository:  
+https://github.com/rypeguero/Incident-Ledger
+
+---
+
+## Current Focus
+
+I am currently building a SOC Analyst lab portfolio based on hands-on investigation practice. My writeups focus on alert triage, log analysis, containment, remediation, MITRE ATT&CK mapping, and clear explanations of what I investigated and learned.
+
+My goal is to make each project useful for both learning and interviews by documenting:
+
+- What happened
+- What evidence I reviewed
+- What indicators were suspicious
+- How I reached my conclusion
+- What remediation steps I would recommend
+- What I learned from the investigation
+
+---
 
 ## Certifications
 
 - CompTIA Security+
 - Google Cybersecurity Certificate
+
+---
+
+## Professional Goal
+
+I am focused on entry-level cybersecurity roles such as SOC Analyst, Security Analyst, Cybersecurity Analyst, Vulnerability Management Analyst, and other blue-team positions where I can apply hands-on investigation, documentation, scripting, and remediation skills.
