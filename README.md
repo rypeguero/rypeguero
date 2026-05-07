@@ -109,7 +109,7 @@ This repository is focused on:
 Note: This repository does not include TryHackMe flags, direct answers, or solution dumps.
 
 Repository:  
-https://github.com/rypeguero/tryhackme-soc-level-1-writeups
+[https://github.com/rypeguero/tryhackme-soc-level-1-writeups](https://github.com/rypeguero/tryhackme-soc-level-1)
 
 ---
 
