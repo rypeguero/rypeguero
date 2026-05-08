@@ -69,6 +69,9 @@ This repository is focused on:
 Repository:  
 https://github.com/rypeguero/honeypot-siem-lab
 
+Related deployment guide:  
+https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment
+
 ---
 
 ### Microsoft SOC Cyber Range
