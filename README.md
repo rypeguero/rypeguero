@@ -74,26 +74,6 @@ https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment
 
 ---
 
-### Microsoft SOC Cyber Range
-
-Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, Azure, and Tenable.io for alert triage, threat hunting, vulnerability management, and remediation tracking.
-
-This repository is focused on:
-
-- Sentinel alert investigations
-- Defender for Endpoint alert reviews
-- KQL-based log analysis
-- Suspicious authentication activity
-- Endpoint investigation
-- Tenable.io vulnerability scanning
-- CVSS-based prioritization
-- Remediation planning and validation
-
-Repository:  
-https://github.com/rypeguero/microsoft-soc-cyber-range-lab
-
----
-
 ### TryHackMe SOC Level 1 Writeups
 
 Selected room-based investigation summaries focused on analyst reasoning, log analysis, remediation, MITRE ATT&CK mapping, and interview-ready explanations.
