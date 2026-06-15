@@ -12,39 +12,39 @@
 
 ## SIEM Labs
 
-- [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab)
-- [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment)
-- [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups)
+- [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab) — T-Pot, Cowrie, Suricata, Elastic, Kibana
+- [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment) — T-Pot, Docker, Elastic/Kibana, Linux VPS
+- [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups) — Splunk, SIEM logs, phishing analysis, Windows/Linux logs, MITRE ATT&CK
 
 ## Vulnerability Management
 
-- [Vulnerability Management Program Implementation](https://github.com/rypeguero/Vulnerability-Management-Program-Implementation)
-- [Vulnerability Remediations](https://github.com/rypeguero/Vulnerability-Remediations)
+- [Vulnerability Management Program Implementation](https://github.com/rypeguero/Vulnerability-Management-Program-Implementation) — Tenable.io/Nessus, Azure VMs, Windows/Linux, CVE/CVSS
+- [Vulnerability Remediations](https://github.com/rypeguero/Vulnerability-Remediations) — PowerShell, Bash, DISA STIG, Windows/Linux hardening
 
 ## Threat Hunts
 
-- [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md)
-- [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR)
-- [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail)
+- [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md) — Splunk/SIEM, Sysmon, PowerShell, DNS, Registry persistence, MITRE ATT&CK
+- [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR) — Microsoft Defender for Endpoint, KQL, device telemetry, IOC review
+- [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail) — Python, Linux, `/proc`, Graphviz, JSON artifacts
 
 ## Full-Stack Apps
 
-- [Incident Ledger](https://github.com/rypeguero/Incident-Ledger) — React, TypeScript, Supabase, PostgreSQL
-- [Travlr Getaways Full-Stack App](https://github.com/rypeguero/cs465-full-stack-development) — Node.js, Express, MongoDB, Angular
-- [Event Tracking App](https://github.com/rypeguero/EventTrackingApp) — application design and event tracking workflow
+- [Incident Ledger](https://github.com/rypeguero/Incident-Ledger) — React, TypeScript, Supabase, PostgreSQL, Tailwind CSS
+- [Travlr Getaways Full-Stack App](https://github.com/rypeguero/cs465-full-stack-development) — Node.js, Express, MongoDB/Mongoose, Angular, Handlebars
+- [Event Tracking App](https://github.com/rypeguero/EventTrackingApp) — Java, Android Studio, SQLite, Android XML, Material Components
 
 ## Software Engineering & CS Projects
 
 ### Secure Development
 
-- [Secure Coding](https://github.com/rypeguero/Secure-Coding)
-- [Secure Software Portfolio C++](https://github.com/rypeguero/Secure-Software-Portfolio-CPP)
+- [Secure Coding](https://github.com/rypeguero/Secure-Coding) — Java, Spring Boot, Maven, SSL/TLS, OWASP Dependency-Check
+- [Secure Software Portfolio C++](https://github.com/rypeguero/Secure-Software-Portfolio-CPP) — C++, static analysis, unit testing, memory safety, secure coding standards
 
 ### Backend & Data
 
-- [CRUD Module with Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB)
+- [CRUD Module with Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB) — Python, MongoDB, PyMongo, Dash, Jupyter Notebook
 
 ### AI, Systems & Embedded
 
-- [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)
-- [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-)
+- [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab) — Python, Jupyter Notebook, TensorFlow/Keras, Deep Q-Learning
+- [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-) — Python, Raspberry Pi 4B, GPIO, I²C, UART, AHT20 sensor
