@@ -14,6 +14,7 @@
 
 - [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab)
 - [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment)
+- [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups)
 
 ## Vulnerability Management
 
@@ -22,7 +23,7 @@
 
 ## Threat Hunts
 
-- [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups)
+- [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md)
 - [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR)
 - [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail)
 
