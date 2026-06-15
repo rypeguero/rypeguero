@@ -29,13 +29,22 @@
 
 ## Full-Stack Apps
 
-- [Incident Ledger](https://github.com/rypeguero/Incident-Ledger)
-- [Travlr Getaways Full-Stack App](https://github.com/rypeguero/cs465-full-stack-development)
-- [Event Tracking App](https://github.com/rypeguero/EventTrackingApp)
+- [Incident Ledger](https://github.com/rypeguero/Incident-Ledger) — React, TypeScript, Supabase, PostgreSQL
+- [Travlr Getaways Full-Stack App](https://github.com/rypeguero/cs465-full-stack-development) — Node.js, Express, MongoDB, Angular
+- [Event Tracking App](https://github.com/rypeguero/EventTrackingApp) — application design and event tracking workflow
 
-## Software Engineering Projects
+## Software Engineering & CS Projects
+
+### Secure Development
 
 - [Secure Coding](https://github.com/rypeguero/Secure-Coding)
 - [Secure Software Portfolio C++](https://github.com/rypeguero/Secure-Software-Portfolio-CPP)
-- [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)
+
+### Backend & Data
+
 - [CRUD Module with Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB)
+
+### AI, Systems & Embedded
+
+- [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)
+- [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-)
