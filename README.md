@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/Welcome banner.png" alt="Computer Science and Cybersecurity Portfolio Banner" width="100%">
+  <img src="./assets/software-development-cybersecurity-banner.svg" alt="Software Development and Cybersecurity Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">Ryan Peguero</h1>
 
 <p align="center">
-  Computer Science Graduate | Software Development | Cybersecurity | Cloud & Systems Projects
+  Software Development | Cybersecurity | Full-Stack Apps | Secure Coding | Systems Design
 </p>
 
 <p align="center">
-  Building practical projects across full-stack development, secure coding, databases, cloud labs, systems design, and security operations.
+  Projects across full-stack development, SIEM labs, vulnerability management, databases, AI, embedded systems, and technical documentation.
 </p>
 
 <p align="center">
