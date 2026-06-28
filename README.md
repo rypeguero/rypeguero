@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="./assets/software-development-cybersecurity-banner.svg" alt="Software Development and Cybersecurity Portfolio Banner" width="100%">
+  <img src="./assets/banner.png" alt="Ryan Peguero Banner" width="100%">
+</p>
+
+<h1 align="center">Ryan Peguero</h1>
+
+<p align="center">
+  Software Development | Cybersecurity | SIEM | SOC Analyst
 </p>
 
 <p align="center">
-  Software Development | Cybersecurity | Full-Stack Apps | Secure Coding | Systems Design
+  Full-Stack Apps | Secure Coding | Systems Design | Threat Hunting
 </p>
 
 <p align="center">
