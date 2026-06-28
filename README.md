@@ -2,14 +2,8 @@
   <img src="./assets/software-development-cybersecurity-banner.svg" alt="Software Development and Cybersecurity Portfolio Banner" width="100%">
 </p>
 
-<h1 align="center">Ryan Peguero</h1>
-
 <p align="center">
   Software Development | Cybersecurity | Full-Stack Apps | Secure Coding | Systems Design
-</p>
-
-<p align="center">
-  Projects across full-stack development, SIEM labs, vulnerability management, databases, AI, embedded systems, and technical documentation.
 </p>
 
 <p align="center">
