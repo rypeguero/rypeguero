@@ -1,33 +1,20 @@
 <p align="center">
-  <img src="./assets/Welcome banner.png" alt="Cybersecurity Portfolio Banner" width="100%">
+  <img src="./assets/Welcome banner.png" alt="Computer Science and Cybersecurity Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">Ryan Peguero</h1>
 
 <p align="center">
-  Security Analyst | SOC Operations | SIEM/EDR | Threat Hunting
+  Computer Science Graduate | Software Development | Cybersecurity | Cloud & Systems Projects
+</p>
+
+<p align="center">
+  Building practical projects across full-stack development, secure coding, databases, cloud labs, systems design, and security operations.
 </p>
 
 ---
 
-## SIEM Labs
-
-- [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab) — T-Pot, Cowrie, Suricata, Elastic, Kibana
-- [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment) — T-Pot, Docker, Elastic/Kibana, Linux VPS
-- [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups) — Splunk, SIEM logs, phishing analysis, Windows/Linux logs, MITRE ATT&CK
-
-## Vulnerability Management
-
-- [Vulnerability Management Program Implementation](https://github.com/rypeguero/Vulnerability-Management-Program-Implementation) — Tenable.io/Nessus, Azure VMs, Windows/Linux, CVE/CVSS
-- [Vulnerability Remediations](https://github.com/rypeguero/Vulnerability-Remediations) — PowerShell, Bash, DISA STIG, Windows/Linux hardening
-
-## Threat Hunts
-
-- [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md) — Splunk/SIEM, Sysmon, PowerShell, DNS, Registry persistence, MITRE ATT&CK
-- [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR) — Microsoft Defender for Endpoint, KQL, device telemetry, IOC review
-- [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail) — Python, Linux, `/proc`, Graphviz, JSON artifacts
-
-## Software Engineering & CS Projects
+## Computer Science & Software Development
 
 ### Capstone, Full-Stack & Application Development
 
@@ -49,12 +36,31 @@
 - [Contact Service](https://github.com/rypeguero/ContactService) — Java, object-oriented design, service-layer logic, input validation, JUnit testing
 - [CRUD Module with Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB) — Python, MongoDB, PyMongo, Dash, Jupyter Notebook
 
+### AI, Systems & Embedded
+
+- [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab) — Python, Jupyter Notebook, TensorFlow/Keras, Deep Q-Learning
+- [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-) — Python, Raspberry Pi 4B, GPIO, I²C, UART, AHT20 sensor
+
+## Secure Software & Cybersecurity Projects
+
 ### Secure Development
 
 - [Secure Coding](https://github.com/rypeguero/Secure-Coding) — Java, Spring Boot, Maven, SSL/TLS, OWASP Dependency-Check
 - [Secure Software Portfolio C++](https://github.com/rypeguero/Secure-Software-Portfolio-CPP) — C++, static analysis, unit testing, memory safety, secure coding standards
 
-### AI, Systems & Embedded
+### Security Labs & SIEM Work
 
-- [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab) — Python, Jupyter Notebook, TensorFlow/Keras, Deep Q-Learning
-- [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-) — Python, Raspberry Pi 4B, GPIO, I²C, UART, AHT20 sensor
+- [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab) — T-Pot, Cowrie, Suricata, Elastic, Kibana
+- [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment) — T-Pot, Docker, Elastic/Kibana, Linux VPS
+- [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups) — Splunk, SIEM logs, phishing analysis, Windows/Linux logs, MITRE ATT&CK
+
+### Vulnerability Management
+
+- [Vulnerability Management Program Implementation](https://github.com/rypeguero/Vulnerability-Management-Program-Implementation) — Tenable.io/Nessus, Azure VMs, Windows/Linux, CVE/CVSS
+- [Vulnerability Remediations](https://github.com/rypeguero/Vulnerability-Remediations) — PowerShell, Bash, DISA STIG, Windows/Linux hardening
+
+### Threat Hunts & Detection Projects
+
+- [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md) — Splunk/SIEM, Sysmon, PowerShell, DNS, Registry persistence, MITRE ATT&CK
+- [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR) — Microsoft Defender for Endpoint, KQL, device telemetry, IOC review
+- [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail) — Python, Linux, `/proc`, Graphviz, JSON artifacts
