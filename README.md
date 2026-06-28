@@ -2,8 +2,6 @@
   <img src="./assets/banner.png" alt="Ryan Peguero Banner" width="100%">
 </p>
 
-<h1 align="center">Ryan Peguero</h1>
-
 <p align="center">
   <strong><em>Matthew 5:13-16</em></strong>
 </p>
