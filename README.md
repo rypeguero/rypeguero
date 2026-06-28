@@ -5,14 +5,6 @@
 <h1 align="center">Ryan Peguero</h1>
 
 <p align="center">
-  Software Development | Cybersecurity | SIEM | SOC Analyst
-</p>
-
-<p align="center">
-  Full-Stack Apps | Secure Coding | Systems Design | Threat Hunting
-</p>
-
-<p align="center">
   <strong><em>Matthew 5:13-16</em></strong>
 </p>
 
