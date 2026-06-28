@@ -12,6 +12,10 @@
   Building practical projects across full-stack development, secure coding, databases, cloud labs, systems design, and security operations.
 </p>
 
+<p align="center">
+  <strong><em>Matthew 5:13-16</em></strong>
+</p>
+
 ---
 
 ## Computer Science & Software Development
