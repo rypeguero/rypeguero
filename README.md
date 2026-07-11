@@ -8,7 +8,9 @@
 
 ---
 
-## Computer Science & Software Development
+<h2 align="center">
+  <strong>Computer Science &amp; Software Development</strong>
+</h2>
 
 ### Capstone, Full-Stack & Application Development
 
@@ -35,7 +37,9 @@
 - [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab) — Python, Jupyter Notebook, TensorFlow/Keras, Deep Q-Learning
 - [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-) — Python, Raspberry Pi 4B, GPIO, I²C, UART, AHT20 sensor
 
-## Secure Software & Cybersecurity Projects
+<h2 align="center">
+  <strong>Secure Software &amp; Cybersecurity Projects</strong>
+</h2>
 
 ### Secure Development
 
