@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#160507"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff3644"/>
+      <stop offset="100%" stop-color="#b51222"/>
+    </linearGradient>
+    <style>
+      .t{font:800 76px Arial,sans-serif;fill:#fff3f3}
+      .s{font:500 28px 'Courier New',monospace;fill:#f2f2f2}
+      .l{font:700 18px 'Courier New',monospace;fill:#ff6570}
+      .v{font:500 19px Arial,sans-serif;fill:#f4f4f4}
+    </style>
+  </defs>
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1564" height="464" rx="18" fill="none" stroke="#ff2e3c" stroke-width="2"/>
+  <g opacity="0.25" stroke="#5f161c">
+    <path d="M0 60h1600M0 120h1600M0 180h1600M0 240h1600M0 300h1600M0 360h1600M0 420h1600"/>
+    <path d="M100 0v500M200 0v500M300 0v500M400 0v500M500 0v500M600 0v500M700 0v500M800 0v500M900 0v500M1000 0v500M1100 0v500M1200 0v500M1300 0v500M1400 0v500M1500 0v500"/>
+  </g>
+  <text x="70" y="95" class="l">THREAT HUNT REPORT</text>
+  <text x="70" y="180" class="t">Just Another Day</text>
+  <text x="70" y="225" class="s">Nimbus Health Threat Hunt Report</text>
+
+  <rect x="70" y="270" width="650" height="58" rx="10" fill="#120709" stroke="#ff2e3c"/>
+  <text x="92" y="303" class="l">Incident type:</text><text x="290" y="303" class="v">Externally driven valid-account compromise</text>
+  <rect x="70" y="344" width="650" height="58" rx="10" fill="#120709" stroke="#ff2e3c"/>
+  <text x="92" y="377" class="l">Hunt window:</text><text x="290" y="377" class="v">8–18 March 2026</text>
+  <rect x="70" y="418" width="650" height="44" rx="10" fill="#120709" stroke="#ff2e3c"/>
+  <text x="92" y="447" class="l">Primary activity date:</text><text x="350" y="447" class="v">11 March 2026</text>
+
+  <rect x="760" y="270" width="610" height="58" rx="10" fill="#120709" stroke="#ff2e3c"/>
+  <text x="782" y="303" class="l">Environment:</text><text x="980" y="303" class="v">Nimbus Health Windows estate</text>
+  <rect x="760" y="344" width="610" height="58" rx="10" fill="#120709" stroke="#ff2e3c"/>
+  <text x="782" y="377" class="l">Telemetry:</text><text x="980" y="377" class="v">Microsoft Sentinel and Microsoft Defender for Endpoint</text>
+  <rect x="760" y="418" width="300" height="44" rx="10" fill="#120709" stroke="#ff2e3c"/>
+  <text x="782" y="447" class="l">Analyst:</text><text x="910" y="447" class="v">Ryan Peguero</text>
+  <rect x="1090" y="418" width="280" height="44" rx="10" fill="url(#red)" stroke="#ff8991"/>
+  <text x="1112" y="447" class="l" style="fill:#ffe9ea">Severity:</text><text x="1260" y="447" class="v" style="font-weight:800;fill:#fff">HIGH</text>
+
+  <circle cx="1375" cy="160" r="86" fill="none" stroke="#872029" stroke-width="2"/>
+  <circle cx="1375" cy="160" r="108" fill="none" stroke="#451015" stroke-width="1.5"/>
+  <path d="M1300 160h150M1375 85v150" stroke="#6f1a20"/>
+  <path d="M1318 120c22-10 46-8 67 6 18 12 31 31 35 54-26 7-52 5-75-7-22-12-36-31-40-53 4 0 8 0 13 0z" fill="#ff3644" opacity="0.22" stroke="#ff6a73"/>
+</svg>
