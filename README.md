@@ -55,6 +55,7 @@
 
 ### Threat Hunts & Detection Projects
 
+- [Nimbus Health: Just Another Day](./threat-hunting/nimbus-health-just-another-day.md) — Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, valid-account compromise, RDP lateral movement, HR/Billing data collection, MITRE ATT&CK
 - [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md) — Splunk/SIEM, Sysmon, PowerShell, DNS, Registry persistence, MITRE ATT&CK
 - [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR) — Microsoft Defender for Endpoint, KQL, device telemetry, IOC review
 - [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail) — Python, Linux, `/proc`, Graphviz, JSON artifacts
