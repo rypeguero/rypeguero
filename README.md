@@ -51,6 +51,7 @@
 - [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab) — T-Pot, Cowrie, Suricata, Elastic, Kibana
 - [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment) — T-Pot, Docker, Elastic/Kibana, Linux VPS
 - [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups) — Splunk, SIEM logs, phishing analysis, Windows/Linux logs, MITRE ATT&CK
+- [Log(N) Pacific Cyber Range SOC](https://github.com/rypeguero/microsoft-soc-cyber-range) - Microsoft Sentinel, Microsoft Defender for Endpoint, MITRE ATT&CK, KQL
 
 ### Vulnerability Management
 
