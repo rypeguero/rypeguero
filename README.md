@@ -60,6 +60,7 @@
 
 ### Threat Hunts & Detection Projects
 
+- [Hide Your RDP: Password Spray Leads to Full Compromise](https://github.com/rypeguero/logn-pacific-cyber-range/blob/main/threat-hunting/hide-your-rdp-password-spray-to-full-compromise.md) — Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, RDP password spraying, scheduled-task persistence, Defender evasion, C2 traffic, archive staging, and attempted exfiltration
 - [Nimbus Health: Just Another Day](https://github.com/rypeguero/microsoft-soc-cyber-range/blob/main/threat-hunting/Nimbus%20Health%20Threat%20Hunt%20Report.md) — Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, valid-account compromise, RDP lateral movement, HR/Billing data collection, MITRE ATT&CK
 - [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md) — Splunk/SIEM, Sysmon, PowerShell, DNS, Registry persistence, MITRE ATT&CK
 - [Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR) — Microsoft Defender for Endpoint, KQL, device telemetry, IOC review
