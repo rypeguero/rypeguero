@@ -61,12 +61,17 @@
 - [Vulnerability Remediations](https://github.com/rypeguero/Vulnerability-Remediations) — PowerShell, Bash, DISA STIG, Windows/Linux hardening
 - [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail) — Python, Linux, `/proc`, Graphviz, JSON artifacts
 
-## Security Reports, Guides & Investigation Documentation
+## Security Reports, Guides & Writeups
 
-> Deployment guides, SOC writeups, threat-hunting reports and documented investigation findings.
+> Deployment documentation, SOC learning writeups and supporting investigation notes.
 
 - [T-Pot Kibana Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment) — T-Pot, Docker, Elastic/Kibana, Linux VPS deployment documentation
 - [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups) — Splunk, phishing analysis, Windows/Linux logs and MITRE ATT&CK investigation notes
+
+## Threat Hunts & Detection Investigations
+
+> Structured investigations that trace suspicious behavior across endpoint, identity, network and SIEM telemetry.
+
 - [Hide Your RDP: Password Spray Leads to Full Compromise](https://github.com/rypeguero/logn-pacific-cyber-range/blob/main/threat-hunting/hide-your-rdp-password-spray-to-full-compromise.md) — RDP password spraying, persistence, Defender evasion, C2 traffic, staging and attempted exfiltration
 - [Nimbus Health: Just Another Day](https://github.com/rypeguero/microsoft-soc-cyber-range/blob/main/threat-hunting/Nimbus%20Health%20Threat%20Hunt%20Report.md) — valid-account compromise, RDP lateral movement, HR/Billing collection and MITRE ATT&CK mapping
 - [Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md) — Splunk/SIEM, Sysmon, PowerShell, DNS and Registry persistence
