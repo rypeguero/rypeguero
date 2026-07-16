@@ -24,7 +24,7 @@
 
 ### Python, Data & Embedded Development
 
-- [Text-Based Game](https://github.com/rypeguero/Text-Based-Game) — Python command-line game, room navigation, item collection, control flow, dictionaries
+- [Haunted Mansion Rescue](https://github.com/rypeguero/Text-Based-Game) — Python command-line adventure, room navigation, item collection, control flow and dictionaries
 - [CRUD Module with Python and MongoDB](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB) — Python, MongoDB, PyMongo, Dash, Jupyter Notebook
 - [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab) — Python, Jupyter Notebook, TensorFlow/Keras, Deep Q-Learning
 - [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-) — Python, Raspberry Pi 4B, GPIO, I²C, UART, AHT20 sensor
