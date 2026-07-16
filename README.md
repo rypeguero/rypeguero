@@ -35,10 +35,10 @@ Android application for creating, updating and tracking scheduled events with pe
 
 **Technologies:** Java, Android Studio, SQLite, Android XML, Material Components
 
-### [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail)
-Python-based Linux detection prototype that maps process relationships and produces visual evidence of suspicious activity.
+### [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)
+Reinforcement-learning project that trains an intelligent agent to navigate an environment and reach a target.
 
-**Technologies:** Python, Linux, `/proc`, Graphviz, JSON
+**Technologies:** Python, TensorFlow, Keras, Deep Q-Learning, Jupyter Notebook
 
 ---
 
@@ -51,11 +51,6 @@ Python-based Linux detection prototype that maps process relationships and produ
 Command-line adventure game where players explore rooms, collect items and rescue a friend from a ghost.
 
 **Technologies:** Python, dictionaries, lists, functions, loops, conditional logic
-
-### [Adaptive AI Systems: Intelligent Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)
-Reinforcement-learning project that trains an intelligent agent to navigate an environment and reach a target.
-
-**Technologies:** Python, TensorFlow, Keras, Deep Q-Learning, Jupyter Notebook
 
 ### [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-)
 Raspberry Pi thermostat prototype that reads environmental data and controls hardware through embedded interfaces.
@@ -129,6 +124,11 @@ End-to-end vulnerability-management project covering discovery, prioritization, 
 <summary><strong>More Security Labs, Guides & Threat Hunts</strong></summary>
 
 <br>
+
+### [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail)
+Python-based Linux detection prototype that maps process relationships and produces visual evidence of suspicious activity.
+
+**Technologies:** Python, Linux, `/proc`, Graphviz, JSON
 
 ### [SIEM Lab & Honeypot](https://github.com/rypeguero/honeypot-siem-lab)
 Internet-facing honeypot lab that captures malicious activity and visualizes attack telemetry for analysis.
