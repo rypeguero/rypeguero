@@ -67,15 +67,15 @@ C++ coursework demonstrating modular console applications, file processing, vali
 
 **Technologies:** C++, standard library, file I/O, functions, input validation
 
-### [Secure Coding](https://github.com/rypeguero/Secure-Coding)
-Secure Java web application demonstrating encrypted communication, dependency analysis and defensive coding practices.
+### [Spring Boot HTTPS Hash Service](https://github.com/rypeguero/Secure-Coding)
+Validated Java service demonstrating local HTTPS/TLS, bounded SHA-256 digest requests, structured JSON responses, automated tests and dependency review.
 
-**Technologies:** Java, Spring Boot, Maven, SSL/TLS, OWASP Dependency-Check
+**Technologies:** Java, Spring Boot, Maven, HTTPS/TLS, JUnit, OWASP Dependency-Check
 
-### [Secure Software Portfolio C++](https://github.com/rypeguero/Secure-Software-Portfolio-CPP)
-C++ secure-development portfolio focused on validation, testing, static analysis and memory-safe programming.
+### [C++ Secure Coding Labs](https://github.com/rypeguero/Secure-Software-Portfolio-CPP)
+Educational security labs covering memory safety, exception handling, testing, static analysis and parameterized SQLite queries.
 
-**Technologies:** C++, unit testing, static analysis, memory safety, secure coding standards
+**Technologies:** C++, SQLite, unit testing, static analysis, prepared statements, secure coding standards
 
 </details>
 
