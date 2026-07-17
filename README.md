@@ -62,7 +62,7 @@ Java service layer for creating, retrieving, updating and deleting validated con
 
 **Technologies:** Java, object-oriented programming, HashMap, JUnit 5, service-layer design
 
-### [CS 210 Programming Languages](https://github.com/rypeguero/CS-210-Programming-Languages)
+### [C++ Console Application Portfolio](https://github.com/rypeguero/cpp-console-application-portfolio)
 Three C++ console applications covering clock formatting, compound-interest calculations and file-based grocery inventory analysis.
 
 **Technologies:** C++, standard library, vectors, maps, file I/O, input validation
