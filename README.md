@@ -15,11 +15,6 @@
 
 <h2 align="center">💻 Featured Software Engineering Projects</h2>
 
-### [Incident Ledger](https://github.com/rypeguero/Incident-Ledger)
-Full-stack incident-tracking application for documenting incidents, actions, status changes and operational handoffs.
-
-**Technologies:** Next.js, React, TypeScript, Node.js, PostgreSQL, Tailwind CSS
-
 ### [Travlr Getaways Full-Stack App](https://github.com/rypeguero/cs465-full-stack-development)
 Full-stack travel platform with a customer trip catalog and authenticated administrative tools for managing trip data.
 
