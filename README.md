@@ -1,162 +1,83 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Ryan Peguero Banner" width="100%">
-</p>
+# Ryan Peguero
 
-<p align="center">
-  <strong>Software engineer with secure-development and cybersecurity experience.</strong><br>
-  Building practical applications, backend systems and technical solutions with a focus on reliability, usability and security.
-</p>
+**Software Engineer | Cybersecurity & Detection Engineering**
 
-<p align="center">
-  <strong><em>Matthew 5:13-16</em></strong>
-</p>
+I build practical software and investigate how systems behave under pressure. My projects span web applications, APIs, automation, cloud services, and hands-on security operations.
+
+[Portfolio](https://rypeguero.github.io/) · [LinkedIn](https://www.linkedin.com/in/ryan-peguero/) · [All repositories](https://github.com/rypeguero?tab=repositories)
 
 ---
 
-<h2 align="center">💻 Featured Software Engineering Projects</h2>
+## Software Development
 
-### [Travlr Getaways Full-Stack App](https://github.com/rypeguero/cs465-full-stack-development)
-Full-stack travel platform with a customer trip catalog and authenticated administrative tools for managing trip data.
+**[Laura Taffur Beauty](https://laura-taffur-beauty.ryanpeguero7.workers.dev/)** · *Live client website*  
+A responsive business website with service pages, image galleries, and WhatsApp-based inquiries.  
+`React` · `Vite` · `Tailwind CSS` · `Cloudflare`
 
-**Technologies:** Node.js, Express, MongoDB, Mongoose, Angular, Handlebars
+**[Service Studio](https://github.com/rypeguero/crm-app)** · *CRM & appointment scheduling, in development*  
+An appointment-request workflow with API validation and PostgreSQL persistence.  
+`Python` · `FastAPI` · `PostgreSQL` · `JavaScript`
 
-### [Animal Rescue Analytics Dashboard](https://github.com/rypeguero/CRUD-Module-With-Python-And-MongoDB)
-Python and MongoDB application combining reusable CRUD operations with rescue-profile filtering, data visualization and geolocation mapping.
+**[Travlr Getaways](https://github.com/rypeguero/cs465-full-stack-development)** · *Full-stack application*  
+Travel catalog with a REST API, authentication, and an Angular admin interface.  
+`Node.js` · `Express` · `Angular` · `MongoDB`
 
-**Technologies:** Python, MongoDB, PyMongo, Dash, Pandas, Plotly, Jupyter Notebook
+**[Animal Rescue Analytics Dashboard](https://github.com/rypeguero/animal-rescue-analytics-dashboard)** · *Data application*  
+Python CRUD layer and interactive dashboard with filtering, charts, and mapping.  
+`Python` · `MongoDB` · `Dash` · `Plotly`
 
-### [Event Tracking App](https://github.com/rypeguero/EventTrackingApp)
-Android application with user authentication, persistent SQLite event management and optional SMS reminders.
-
-**Technologies:** Java, Android Studio, SQLite, Android XML, RecyclerView, Material Components
-
-### [Intelligent Agents Lab: Pirate Treasure Hunt](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab)
-Deep Q-Learning project that trains an autonomous pirate agent to navigate a maze and locate treasure through reinforcement learning.
-
-**Technologies:** Python, TensorFlow, Keras, Deep Q-Learning, Jupyter Notebook
-
----
+**[Event Tracking App](https://github.com/rypeguero/EventTrackingApp)** · *Android application*  
+Event management with local data storage, authentication, and optional reminders.  
+`Java` · `Android` · `SQLite`
 
 <details>
-<summary><strong>More Software Development Projects</strong></summary>
+<summary><strong>More software projects</strong></summary>
 
-<br>
-
-### [Haunted Mansion Rescue](https://github.com/rypeguero/haunted-mansion-rescue)
-Command-line adventure game where players explore rooms, collect items and rescue a friend from a ghost.
-
-**Technologies:** Python, dictionaries, lists, functions, loops, conditional logic
-
-### [Embedded Systems Thermostat Prototype](https://github.com/rypeguero/Embedded-Systems-Thermostat-)
-Raspberry Pi thermostat prototype that coordinates sensor readings, user controls, state-based logic, LCD output and serial status updates.
-
-**Technologies:** Python, Raspberry Pi, GPIO, I²C, UART, AHT20 sensor, state machines
-
-### [Contact Service](https://github.com/rypeguero/ContactService)
-Java service layer for creating, retrieving, updating and deleting validated contact records with automated unit tests.
-
-**Technologies:** Java, object-oriented programming, HashMap, JUnit 5, service-layer design
-
-### [C++ Console Application Portfolio](https://github.com/rypeguero/cpp-console-application-portfolio)
-Three C++ console applications covering clock formatting, compound-interest calculations and file-based grocery inventory analysis.
-
-**Technologies:** C++, standard library, vectors, maps, file I/O, input validation
-
-### [Spring Boot HTTPS Hash Service](https://github.com/rypeguero/Secure-Coding)
-Validated Java service demonstrating local HTTPS/TLS, bounded SHA-256 digest requests, structured JSON responses, automated tests and dependency review.
-
-**Technologies:** Java, Spring Boot, Maven, HTTPS/TLS, JUnit 5, OWASP Dependency-Check
-
-### [C++ Secure Coding Labs](https://github.com/rypeguero/Secure-Software-Portfolio-CPP)
-Educational security labs covering memory safety, exception handling, testing, static analysis and parameterized SQLite queries.
-
-**Technologies:** C++, SQLite, unit testing, static analysis, prepared statements, secure coding standards
-
-</details>
-
-<details>
-<summary><strong>Software Planning, Design & Documentation</strong></summary>
-
-<br>
-
-### [CS Capstone ePortfolio](https://github.com/rypeguero/rypeguero.github.io)
-Professional software-engineering portfolio presenting enhanced projects, code reviews and technical reflections.
-
-**Tools:** GitHub Pages, HTML, CSS, JavaScript, software documentation
-
-### [DriverPass System Analysis & Design](https://github.com/rypeguero/System-Analysis-And-Design-DriverPass)
-Cloud-platform design blueprint translating stakeholder needs into requirements, workflows, UML models and architecture recommendations.
-
-**Tools:** UML, Mermaid, requirements analysis, architecture planning, cloud design
-
-### [CS 250 Software Development Lifecycle](https://github.com/rypeguero/CS-250-Software-Development-Lifecycle)
-Agile case study examining Scrum roles, user stories, sprint planning, backlog refinement and team communication.
-
-**Tools:** Agile, Scrum, Jira, Confluence, user stories, sprint planning
-
-### [Draw It or Lose It Software Architecture](https://github.com/rypeguero/CS-230-Operating-Platforms)
-Software-design proposal evaluating operating platforms and recommending a scalable, secure web architecture for a multiplayer drawing game.
-
-**Tools:** Architecture analysis, Linux, Windows, macOS, distributed systems, security planning
+- [Adaptive AI Agent Lab](https://github.com/rypeguero/Adaptive-AI-Systems-Intelligent-Agent-Lab) — Reinforcement learning with Python and TensorFlow.
+- [Embedded Systems Thermostat](https://github.com/rypeguero/Embedded-Systems-Thermostat-) — Raspberry Pi sensor and state-machine prototype.
+- [Contact Service](https://github.com/rypeguero/ContactService) — Java service-layer CRUD and JUnit tests.
+- [C++ Console Applications](https://github.com/rypeguero/cpp-console-application-portfolio) — Input handling, calculations, and file-based data processing.
+- [Software Architecture & Design](https://github.com/rypeguero/CS-230-Operating-Platforms) — Cross-platform architecture analysis.
+- [DriverPass System Design](https://github.com/rypeguero/System-Analysis-And-Design-DriverPass) — Requirements, workflows, and UML.
+- [Agile Software Development](https://github.com/rypeguero/CS-250-Software-Development-Lifecycle) — Scrum and software lifecycle documentation.
+- [Full-Stack Portfolio](https://github.com/rypeguero/rypeguero.github.io) — Project artifacts and software engineering reflections.
+- [Additional Portfolio Site](https://github.com/rypeguero/portfolio-page) — Front-end portfolio repository.
+- [Haunted Mansion Rescue](https://github.com/rypeguero/haunted-mansion-rescue) — Python command-line adventure.
 
 </details>
 
 ---
 
-<h2 align="center">🔐 Security Engineering Experience</h2>
+## Security Labs
 
-### [Log(N) Pacific SOC Cyber Range](https://github.com/rypeguero/logn-pacific-cyber-range)
-Hands-on SOC repository covering alert triage, endpoint investigations, KQL threat hunting, vulnerability review and incident documentation.
+**[Log(N) Pacific SOC Cyber Range](https://github.com/rypeguero/logn-pacific-cyber-range)** · *Threat hunting & incident response*  
+Alert triage, endpoint investigations, KQL queries, ATT&CK mapping, and incident reports.  
+`Microsoft Sentinel` · `Defender for Endpoint` · `KQL` · `Azure`
 
-**Technologies:** Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, Azure, Tenable.io, MITRE ATT&CK
+**[GhostTrail](https://github.com/rypeguero/GhostTrail)** · *Linux detection engineering*  
+Deception-based alert prototype that detects decoy-file access and reconstructs process lineage.  
+`Python` · `Linux` · `Graphviz`
 
-### [Vulnerability Management Program Implementation](https://github.com/rypeguero/Vulnerability-Management-Program-Implementation)
-End-to-end vulnerability-management project covering policy development, stakeholder coordination, discovery, prioritization, remediation and verification.
+**[Honeypot SIEM Lab](https://github.com/rypeguero/honeypot-siem-lab)** · *Network monitoring & analysis*  
+Investigation reports from honeypot telemetry, including scanning, credential guessing, and suspicious network activity.  
+`T-Pot` · `Elastic` · `Kibana` · `Suricata`
 
-**Technologies:** Tenable.io, Azure VMs, PowerShell, Bash, CVE, CVSS
+**[Vulnerability Management Program](https://github.com/rypeguero/Vulnerability-Management-Program-Implementation)** · *Remediation workflow*  
+Vulnerability discovery, risk prioritization, remediation, and verification in a lab environment.  
+`Tenable.io` · `Azure` · `PowerShell`
 
 <details>
-<summary><strong>More Security Labs, Guides & Threat Hunts</strong></summary>
+<summary><strong>More security labs & secure-coding projects</strong></summary>
 
-<br>
-
-### [GhostTrail: Linux Deception Detection Prototype](https://github.com/rypeguero/GhostTrail)
-Linux deception-based detection prototype that identifies decoy-file access and reconstructs investigation-ready process lineage.
-
-**Technologies:** Python, Linux, `/proc`, Graphviz, JSON
-
-### [Honeypot SIEM Lab](https://github.com/rypeguero/honeypot-siem-lab)
-Internet-facing honeypot lab that captures malicious activity and turns Elastic and Suricata telemetry into evidence-based SOC reports.
-
-**Technologies:** T-Pot, Cowrie, Suricata, Elastic Stack, Kibana, KQL, Linux
-
-### [Vulnerability Management Toolkit](https://github.com/rypeguero/Vulnerability-Remediations)
-PowerShell toolkit for applying Windows hardening controls, remediating CVEs, enforcing DISA STIGs and performing lightweight threat hunting.
-
-**Technologies:** PowerShell, Windows, DISA STIG, registry and group policy, threat hunting
-
-### [T-Pot Honeypot Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment)
-Step-by-step guide for securely deploying a public T-Pot honeypot and validating its Elastic and Kibana services.
-
-**Technologies:** T-Pot, Ubuntu, Elastic Stack, Kibana, Suricata, VPS, SSH
-
-### [TryHackMe SOC Level 1 Writeups](https://github.com/rypeguero/tryhackme-soc-level-1-writeups)
-Documented SOC investigations covering phishing, endpoint telemetry, log analysis and attacker techniques.
-
-**Technologies:** Splunk, Sysmon, Windows Event Logs, Linux logs, MITRE ATT&CK
-
-### Threat Hunts
-
-- **[Hide Your RDP: Password Spray Leads to Full Compromise](https://github.com/rypeguero/logn-pacific-cyber-range/blob/main/threat-hunting/hide-your-rdp-password-spray-to-full-compromise.md)**  
-  RDP password-spray investigation tracing persistence, defense evasion, command-and-control and attempted exfiltration.
-
-- **[Nimbus Health: Just Another Day](https://github.com/rypeguero/logn-pacific-cyber-range/blob/main/threat-hunting/Nimbus%20Health%20Threat%20Hunt%20Report.md)**  
-  Valid-account compromise involving external access, lateral movement and collection of sensitive HR and billing data.
-
-- **[Health Hazard Threat Hunt](https://github.com/rypeguero/tryhackme-soc-level-1-writeups/blob/main/siem-investigations/health-hazard.md)**  
-  SIEM investigation reconstructing malicious PowerShell execution, DNS activity and registry-based persistence.
-
-- **[Unauthorized Tor Threat Hunt](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR)**  
-  Endpoint investigation identifying unauthorized Tor installation and usage through process, file and network telemetry.
+- [Threat Hunting: Unauthorized Tor](https://github.com/rypeguero/Threat-Hunting-Scenario-TOR) — Endpoint investigation and telemetry correlation.
+- [Vulnerability Remediation Toolkit](https://github.com/rypeguero/Vulnerability-Remediations) — PowerShell hardening and remediation.
+- [T-Pot Deployment Guide](https://github.com/rypeguero/Honeypot-SIEM-Lab-T-Pot-Kibana-Deployment) — Honeypot deployment and service verification.
+- [TryHackMe SOC Level 1](https://github.com/rypeguero/tryhackme-soc-level-1-writeups) — Phishing, log analysis, and investigation writeups.
+- [C++ Secure Coding Labs](https://github.com/rypeguero/cpp-secure-coding-labs) — Memory safety, testing, and static analysis.
+- [Spring Boot HTTPS Hash Service](https://github.com/rypeguero/spring-boot-https-hash-service) — HTTPS, input validation, hashing, and dependency review.
 
 </details>
+
+---
+
+*Matthew 5:13–16*
